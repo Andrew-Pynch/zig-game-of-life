@@ -1,1 +1,0 @@
-you are allowed to run zig build, BUT UNDER NO CIRCUMSTANCES SHOULD YOU ATTEMPT TO ZIG BUILD RUN.
